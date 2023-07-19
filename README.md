@@ -22,6 +22,6 @@ https://github.com/VasanthKumarTJ/HTML-CSS-Project/assets/139874763/28ef3f1c-d23
 
 
 ![Screenshot 2023-07-19 225309](https://github.com/VasanthKumarTJ/HTML-CSS-Project/assets/139874763/5df4e4fd-eeef-477a-9fbd-f9b29913e603)
-![Screenshot 2023-07-19 225414](https://github.com/VasanthKumarTJ/HTML-CSS-Project/assets/139874763/0d90283f-bb92-4406-8b53-a6dd0a439ef4)
+![Screenshot 2023-07-19 225339](https://github.com/VasanthKumarTJ/HTML-CSS-Project/assets/139874763/a630480d-563a-4c6e-83e8-d2914d10446e)
 ![Screenshot 2023-07-19 225414](https://github.com/VasanthKumarTJ/HTML-CSS-Project/assets/139874763/6df306c3-9ee4-4e74-beba-f5df590912df)
 
