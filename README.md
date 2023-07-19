@@ -1,4 +1,4 @@
-![Screenshot 2023-07-19 225414](https://github.com/VasanthKumarTJ/HTML-CSS-Project/assets/139874763/6df306c3-9ee4-4e74-beba-f5df590912df)
+
 https://github.com/VasanthKumarTJ/HTML-CSS-Project/assets/139874763/3dbe0304-e71f-4f46-8040-279c873dac58
 # HTML-CSS-Project
 ##***I HAVE RECREATED YOUTUBE HOME PAGE USING HTML TO CODE AND CSS TO STYLE THE CODE.***
@@ -20,8 +20,6 @@ https://github.com/VasanthKumarTJ/HTML-CSS-Project/assets/139874763/3dbe0304-e71
 
 
 ![Screenshot 2023-07-19 225309](https://github.com/VasanthKumarTJ/HTML-CSS-Project/assets/139874763/5df4e4fd-eeef-477a-9fbd-f9b29913e603)
-
 ![Screenshot 2023-07-19 225414](https://github.com/VasanthKumarTJ/HTML-CSS-Project/assets/139874763/0d90283f-bb92-4406-8b53-a6dd0a439ef4)
-
-![Uploading Screensh![Screenshot 2023-07-19 225339](https://github.com/VasanthKumarTJ/HTML-CSS-Project/assets/139874763/fb34b8a5-00b1-4225-a018-90cef2c62da1)
+![Screenshot 2023-07-19 225414](https://github.com/VasanthKumarTJ/HTML-CSS-Project/assets/139874763/6df306c3-9ee4-4e74-beba-f5df590912df)
 
