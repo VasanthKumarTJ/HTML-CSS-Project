@@ -1,8 +1,8 @@
 # PROJECT USINNG -HTML-CSS-
 
-##I HAVE CREATED UTUBE HOME PAGE USING HTML TO CODE AND CSS TO STYLE THE CODE 
+## I HAVE CREATED UTUBE HOME PAGE USING HTML TO CODE AND CSS TO STYLE THE CODE 
 
-###FEATURES
+### FEATURES
 
 ***when you hover over on the icons in the header it Shows the name of the icon***
 ![Screenshot (86)](https://github.com/VasanthKumarTJ/HTML-CSS-Project/assets/139874763/707ed4af-de0b-46f6-af43-fbd6a7de0546)
