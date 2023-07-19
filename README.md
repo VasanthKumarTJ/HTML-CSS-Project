@@ -13,7 +13,9 @@ https://github.com/VasanthKumarTJ/HTML-CSS-Project/assets/139874763/3dbe0304-e71
 
    ***when you click the profile picture it will open the home channel in new tab***
     
-![youtubeClone - Google Chrome 2023-07-19 22-36-56](https://github.com/VasanthKumarTJ/HTML-CSS-Project/assets/139874763/f4a43d9e-c938-43d9-83ac-d9d9c5a4cd64)
+
+https://github.com/VasanthKumarTJ/HTML-CSS-Project/assets/139874763/28ef3f1c-d233-4dea-843e-b0018e529d99
+
 
   ***when you minimize the page the grid will change according to the html code***  
 
